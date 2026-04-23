@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Banner Snapbudget.png" alt="SnapBudget Banner" width="100%">
+</div>
+
 # SnapBudget 📸💰
 
 **AI-Powered Personal Finance Management System**
